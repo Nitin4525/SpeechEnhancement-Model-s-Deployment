@@ -5,7 +5,7 @@
 模型源码见https://github.com/Nitin4525/SpeechEnhancement
 
 ## 预训练模型
-百度网盘 链接: https://pan.baidu.com/s/1lVNOucGRDAYNlAczE4MO_g 提取码: 8bpg  
+百度网盘 链接: https://pan.baidu.com/s/1fKNts4lgBm7jF2ZphwpKLQ 提取码: 5e7j 
 
 ## 使用说明
 ### 下载libtorch  
